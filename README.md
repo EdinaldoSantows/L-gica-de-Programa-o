@@ -1,5 +1,5 @@
 # Lógica de Programação
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/EdinaldoSantows/Logica-de-Programacao-2022/blob/main/LICENCE)
+Professor Dr. Nelio Alves
 
 # Sobre o projeto
 
