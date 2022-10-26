@@ -1,5 +1,5 @@
 # Lógica de Programação
-Professor Dr. Nelio Alves
+###### Professor Dr. Nelio Alves
 
 # Sobre o projeto
 
