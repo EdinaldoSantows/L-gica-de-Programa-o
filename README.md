@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Do VisualG minha aprendizagem. E principais linguagens do mercado: C, C++, Python, C# e Java
+Do VisualG minha aprendizagem. E principais linguagens do mercado: C, C++, Python e Java
 
 https://sourceforge.net/projects/visualg30/
 
